@@ -17,7 +17,7 @@ const HeroBranding = () => {
         {[...Array(10)].map((_, i) => (
           <div key={i} className="flex items-center mx-4">
             <img 
-              src="https://i.imgur.com/Aofj6kb.png" 
+              src="https://i.imgur.com/c9olsPO.png" 
               alt="mado Logo" 
               className="h-8 sm:h-10 w-auto object-contain"
             />
@@ -26,7 +26,7 @@ const HeroBranding = () => {
         {[...Array(10)].map((_, i) => (
           <div key={`dup-${i}`} className="flex items-center mx-4">
             <img 
-              src="https://i.imgur.com/Aofj6kb.png" 
+              src="https://i.imgur.com/c9olsPO.png" 
               alt="mcdo Logo" 
               className="h-8 sm:h-10 w-auto object-contain"
             />
