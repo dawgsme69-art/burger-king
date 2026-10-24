@@ -66,7 +66,7 @@ export default function InstructionSteps() {
               </div>
 
               <div className="flex-1 border-b border-[#502314]/5 pb-0 last:border-0">
-                <p className="text-[#182C54] text-[13px] sm:text-[15px] font-semibold tracking-tight leading-tight py-1.5">
+                <p className="text-[#502314] text-[13px] sm:text-[15px] font-semibold tracking-tight leading-tight py-1.5">
                   {step.text}
                 </p>
               </div>
